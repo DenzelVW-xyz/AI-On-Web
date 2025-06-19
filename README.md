@@ -2,7 +2,7 @@
 A website made with pythons flask library and the ollama libary.
 
 # How to install:
-`pip install -r requirments.txt`
+`pip install -r requirements.txt`
 or just do
 `pip install flask ollama`
 
