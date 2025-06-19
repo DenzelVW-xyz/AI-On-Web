@@ -6,7 +6,7 @@ A website made with pythons flask library and the ollama libary.
 or just do
 `pip install flask ollama`
 
-Put the main.py file and the template in one folder, run main.py and find the ip it gives you, usually `127.0.0.1:5000`
+Put the main.py file and the template in one folder, run main.py and find the ip it gives you, usually `127.0.0.1:5000`, then paste it into your browser!
 
 # What if im already using that port?
 If you are already using port 5000 (default port for flask) then you can change the port by adding `port=` then the port needed at the last line `app.run(debug=True, port=----)`
