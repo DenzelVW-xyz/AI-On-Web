@@ -14,5 +14,6 @@ If you are already using port 5000 (default port for flask) then you can change 
 Full Example:
 ```
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(debug=True, port=5003)
 ```
+Note: The port can be any unused port!
